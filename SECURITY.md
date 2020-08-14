@@ -12,8 +12,9 @@
 
 ## Overview
 
-Security information for the @Salt-Labs organization.
+Security information for @MAHDTech
 
 ## Reporting a Vulnerability
 
-Please report any suspected security vulnerabilities to **[security@saltlabs.dev](mailto:security@saltlabs.dev)**.
+Please report any suspected security vulnerabilities to **[security@mahdtech.com](mailto:security@mahdtech.com)**.
+

@@ -26,3 +26,4 @@ Here are few tips for contributing to the project.
 - If you're unable to find an open issue addressing the problem, please raise a new one and be sure to include as much information as possible to get the best assistance.
 
 - Lastly, ___please be patient!___ Working on open source software is volunteer work so you will get a response as soon as humanly possible.
+
