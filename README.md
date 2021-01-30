@@ -13,7 +13,7 @@
 
 ## Overview
 
-This public repository contains the community files shared across the @MAHDTech repositories.
+This public repository contains the community files shared across [MAHDTech](https://github.com/MAHDTech).
 
 ## Usage
 

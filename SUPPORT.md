@@ -11,4 +11,5 @@ Support is provided on a best-effort basis.
     * For specific problems, please raise an issue in the repository.
 
 * __Email__
-    * Should you want to reach out via email, **[support@saltlabs.dev](mailto:support@saltlabs.dev)**.
+    * Should you want to reach out via email, **[support@mahdtech.com](mailto:support@mahdtech.com)**.
+
